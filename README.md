@@ -1,1 +1,1 @@
-# compass-and-pirates
+# First assignment for Intro to AI course
